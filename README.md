@@ -1,2 +1,4 @@
 # Git-First-Demo
-This is my first Git Repository. Author - Prince Keshari.
+This is my first Git Repository.
+<br>
+Author - Prince Keshari.
